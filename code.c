@@ -1,11 +1,10 @@
 #include<stdio.h>
 int main()
 {
-	int a=0;
-	for(int i=0;i>a;i++)
+	int i;
+	for(i=0;i<=5;i++)
 	{
-		printf("rohit k");
+		printf("Rohit\n");
 	}
 	return 0;
 }
-
